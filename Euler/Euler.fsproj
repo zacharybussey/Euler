@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>e83a2f80-2f13-40f2-8f6f-69d67f919240</ProjectGuid>
+    <ProjectGuid>e5cbade8-21a3-4c7f-a519-b3b95ac971b4</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Euler</RootNamespace>
     <AssemblyName>Euler</AssemblyName>
